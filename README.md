@@ -10,3 +10,5 @@ If you want to know more steps for starting a project check the guide [here] (ht
 Want to join our other discussion forum?  Get on [Slack] (https://slackin-c4sj.herokuapp.com/).
 
 [![Stories in Ready](https://badge.waffle.io/codeforsanjose/Project-Ideas.svg?label=ready&title=Ready)](http://waffle.io/codeforsanjose/Project-Ideas)
+
+
